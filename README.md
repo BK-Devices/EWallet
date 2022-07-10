@@ -6,9 +6,9 @@ This is the Java Web project of EWallet Trasactions.
 
 Thanks For Your Support!
 ------------------------
-
-
-
+&nbsp;
+&nbsp;
+&nbsp;
 Requirements and Setup
 ----------------------
 For running this code you need - 
