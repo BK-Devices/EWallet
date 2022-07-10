@@ -68,3 +68,20 @@ Follow the following steps for running this project -
 13] Refresh the Project.
 
 14] Then Run the project on Server.
+
+
+Passwords & User Id of Admin
+----------------------------
+User Id - Admin
+
+Password - Admin@1234
+
+
+Passwords & User Id of Customers
+--------------------------------
+Password - 0123456789
+User 1 - Bhavesh
+User 2 - Prajwal
+User 3 - Pushker
+User 4 - Sanchit
+User 5 - Sanika
