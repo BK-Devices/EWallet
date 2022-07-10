@@ -2,7 +2,7 @@ EWallet
 =============
 This is the Java Web project of EWallet Trasactions. 
 
-**Please feel free to use the Issues feature of GitHub if you run into problems or have suggestions for important features to implement. This is the best way to get in touch.**
+**Please feel free to use the Issues feature of GitHub if you run into problems or have suggestions for important features to implement. This is the best way to get in touch.**<br/>
 
 Thanks For Your Support!
 ------------------------
