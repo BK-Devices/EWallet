@@ -78,9 +78,4 @@ Password - Admin@1234
 
 
 Passwords & User Id of Customers
---------------------------------
-Password - 0123456789
-
-User 1 - Bhavesh
-
-User 2 - Prajwal
+------------------------------
