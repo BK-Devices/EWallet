@@ -49,7 +49,7 @@ Follow the following steps for running this project -
 
 4] Add apache-tomcat-9.0.60 server in Eclipse IDE.
 
-5] Unzip the provided "EWalletProject.zip".
+5] Unzip the provided "EWallet.zip".
 
 6] Move the whole folder named "EWallet" inside unziped folder "EWalletProject" to the workspace of Eclipse IDE.
 
