@@ -75,7 +75,3 @@ Passwords & User Id of Admin
 User Id - Admin
 
 Password - Admin@1234
-
-
-Passwords & User Id of Customers
-------------------------------
