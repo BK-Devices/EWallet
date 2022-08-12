@@ -88,5 +88,3 @@ User 2 - Prajwal
 User 3 - Pushker
 
 User 4 - Sanchit
-
-User 5 - Sanika
