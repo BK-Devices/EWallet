@@ -69,6 +69,8 @@ Follow the following steps for running this project -
 
 14] Then Run the project on Server.
 
+15] for running this project type url given below on any browser.
+
 
 Passwords & User Id of Admin
 ----------------------------
