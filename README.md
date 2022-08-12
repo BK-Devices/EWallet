@@ -71,6 +71,8 @@ Follow the following steps for running this project -
 
 15] for running this project type url given below on any browser.
 
+16] url - (https://localhost:8080/EWallet/)
+
 
 Passwords & User Id of Admin
 ----------------------------
