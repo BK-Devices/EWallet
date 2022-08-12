@@ -51,7 +51,7 @@ Follow the following steps for running this project -
 
 5] Unzip the provided "EWallet.zip".
 
-6] Move the whole folder named "EWallet" inside unziped folder "EWalletProject" to the workspace of Eclipse IDE.
+6] Move the whole folder named "EWallet" inside unziped folder "EWallet" to the workspace of Eclipse IDE.
 
 7] Open Eclipse IDE >>>> File >>>> Open Projects from file system..
 
