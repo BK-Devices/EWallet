@@ -84,7 +84,3 @@ Password - 0123456789
 User 1 - Bhavesh
 
 User 2 - Prajwal
-
-User 3 - Pushker
-
-User 4 - Sanchit
